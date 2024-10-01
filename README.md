@@ -13,4 +13,4 @@ Nebula is a powerful tool designed to help developers manage CSS/SCSS files effi
 ## Installation
 
 ```bash
-npm install nebula
+npm install @ismailbentabett/nebula
